@@ -181,10 +181,10 @@ $query = "SELECT * FROM `tblsummary` s ,`tblcustomer` c
 				  		// echo '<td>'. $result->FIRSTNAME.' '. $result->LASTNAME.'</td>';
 				  		echo '<td>'. $result->PRODESC.'</td>';
 				  		// echo '<td>'.date_format(date_create($result->ORDEREDDATE),"M/d/Y h:i:s").'</td>';
-				  		echo '<td> $  '. number_format($result->PROPRICE,2).' </td>';
+				  		echo '<td> &#36 '. number_format($result->PROPRICE,2).' </td>';
 				  		echo '<td align="center" >'. $result->ORDEREDQTY.'</td>';
 				  		?>
-				  		 <td> $  <output><?php echo  number_format($result->ORDEREDPRICE,2); ?></output></td> 
+				  		 <td> &#36 <output><?php echo  number_format($result->ORDEREDPRICE,2); ?></output></td> 
 				  		<?php
 				  		
 				  		// echo '<td id="status" >'. $result->STATS.'</td>';
@@ -225,9 +225,9 @@ $query = "SELECT * FROM `tblsummary` s ,`tblcustomer` c
 
 		  	</div>
 		  	<div class="col-md-6 pull-right">
-		  		<p align="right">Total Price : $  <?php echo number_format($subtot,2);?></p>
-		  		<p align="right">Delivery Fee : $  <?php echo number_format($price,2); ?></p>
-		  		<p align="right">Overall Price : $  <?php echo number_format($cur->PAYMENT,2); ?></p>
+		  		<p align="right">Total Price : &#36 <?php echo number_format($subtot,2);?></p>
+		  		<p align="right">Delivery Fee : &#36 <?php echo number_format($price,2); ?></p>
+		  		<p align="right">Overall Price : &#36 <?php echo number_format($cur->PAYMENT,2); ?></p>
 		  	</div>
 		  </div>
 		 
@@ -239,7 +239,7 @@ $query = "SELECT * FROM `tblsummary` s ,`tblcustomer` c
 		 		 <p>Please print this as a proof of purchased</p><br/>
 		  	  <p>We hope you enjoy your purchased products. Have a nice day!</p>
 		  	  <p>Sincerely.</p>
-		  	  <h4><a href="https://bit.ly/2LPn9Wu">kazaneza web made</a></h4>
+		  	  <h4><a href="https://bit.ly/2LPn9Wu">Janobe Source Code</a></h4>
 		  </div>
 		  <?php }?>
   </div> 

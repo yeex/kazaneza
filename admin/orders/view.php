@@ -184,7 +184,7 @@
                             </strong>
                         </td>
                         <td class="text-primary">
-                            <?php echo ': '.$singleproduct->PRICE; ?> $  
+                            <?php echo ': '.$singleproduct->PRICE; ?> &#36 
                         </td>
                     </tr>
 

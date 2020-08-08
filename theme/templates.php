@@ -49,7 +49,7 @@ if (isset($_SESSION['gcCart'])){
           <div class="col-sm-6">
             <div class="contactinfo">
               <ul class="nav nav-pills">
-                <li><a href="#"><i class="fa fa-phone"></i>+250 781 184 618</a></li>
+                <li><a href="#"><i class="fa fa-phone"></i> +250 781 184 618</a></li>
                 <li><a href="#"><i class="fa fa-envelope"></i>kazanezagentil@gmail.com</a></li>
               </ul>
             </div>
@@ -158,14 +158,14 @@ if (isset($_SESSION['gcCart'])){
           <div class="col-sm-2">
             <div class="companyinfo">
               <h2><span>e</span>-shopper</h2>
-              <p>order your stuff online</p>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do eiusmod tempor</p>
             </div>
           </div>
           <div class="col-sm-7">
             <div class="col-sm-6">
               <div class="video-gallery text-center">
                 <a href="#"> 
-                    <iframe class="iframe-img"  src="https://www.youtube.com/embed/d8N21Q_UN4w"   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+                    <iframe class="iframe-img"  src="https://www.youtube.com"   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
                 </a> 
               </div>
             </div>
@@ -173,7 +173,7 @@ if (isset($_SESSION['gcCart'])){
             <div class="col-sm-6">
               <div class="video-gallery text-center">
                 <a href="#"> 
-                   <iframe  class="iframe-img"  src="https://www.youtube.com/embed/aMDC3Da4KIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+                   <iframe  class="iframe-img"  src="https://www.youtube.com" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
                 </a> 
               </div>
             </div>
@@ -181,7 +181,7 @@ if (isset($_SESSION['gcCart'])){
           <div class="col-sm-3">
             <div class="address">
               <img src="images/home/map.png" alt="" />
-              <p>505 S Atlantic Ave Virginia Beach, VA(Virginia)</p>
+              <p>Rwanda nyabihu </p>
             </div>
           </div>
         </div>
@@ -190,7 +190,7 @@ if (isset($_SESSION['gcCart'])){
     
     <div class="footer-widget">
       <div class="container">
-        <p>Order your products. do not hesitate to contact, if you are not getting want you wish you could have but not on the list. Thank you for shopping with us.</p>
+        <p>You can modify this section using your own personal information</p>
         <div class="row">
           <div class="col-sm-3">
             <div class="single-widget">
@@ -224,9 +224,9 @@ if (isset($_SESSION['gcCart'])){
               <ul class="nav nav-pills nav-stacked">
                 <li><a href="#">Terms of Use</a></li>
                 <li><a href="#">Privecy Policy</a></li>
-                <li><a href="https://youtu.be">HR Record System</a></li>
-                <li><a href="https://youtu.be">Point of Sales</a></li>
-                <li><a href="https://youtu.be">Resevation System</a></li>
+                <li><a href="https://youtu.be/9hcCHTwW3HA">HR Record System</a></li>
+                <li><a href="https://youtu.be/aMDC3Da4KIA">Point of Sales</a></li>
+                <li><a href="https://youtu.be/d8N21Q_UN4w">Resevation System</a></li>
               </ul>
             </div>
           </div>

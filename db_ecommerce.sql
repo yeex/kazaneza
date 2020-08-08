@@ -400,9 +400,8 @@ CREATE TABLE `tbluseraccount` (
 --
 
 INSERT INTO `tbluseraccount` (`USERID`, `U_NAME`, `U_USERNAME`, `U_PASS`, `U_ROLE`, `USERIMAGE`) VALUES
-(124, 'Kenjie Palacios', 'kenjie', '4752fe635442d048e8e8d2d1d845e6a578f30470', 'Administrator', 'photos/COC-war-base-design.jpg'),
-(126, 'Janobe Palacios', 'janobe', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'Administrator', 'photos/10329236_874204835938922_6636897990257224477_n.jpg'),
-(127, 'Craig Palacios', 'craig', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'Administrator', '');
+(126, 'kazaneza gentil', 'kazaneza', '78d1af50755964f7ab44ffc11986496d3356dcfd', 'Administrator', 'photos/images.jpg'),
+(128, 'NDIKUMANA GUY GODARD', 'GUY GODARD', 'be1aba2b28172f24b456abd4a954ab921a05b8a0', 'Administrator', '');
 
 -- --------------------------------------------------------
 

@@ -36,11 +36,11 @@
                         <h2 class="title text-center">Contact Info</h2>
                         <address>
                             <p>E-Shopper Inc.</p>
-                            <p>Rwanda, Kigali, Remera, Giporoso</p>
-                            <p>Rwanda Kigali</p>
-                            <p>Mobile: +250 781 184 618</p>
-                            <p>Mobile: +25 0782 384 303</p>
-                            <p>Email: kazanezagentil@gmail.com</p>
+                            <p>935 Kigali city Remera Giporoso, Rwanda 85, KGL</p>
+                            <p>Newyork USA</p>
+                            <p>Mobile:  +250 781 184 618</p>
+                            <p></p>
+                            <p>Email: info@e-shopper.com</p>
                         </address>
                         <div class="social-networks">
                             <h2 class="title text-center">Social Networking</h2>

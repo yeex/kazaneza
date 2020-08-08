@@ -24,7 +24,7 @@ If you need any help please contact the <strong>Fix N Mix Main Branch or call on
 <br/>
 <strong>PRICES</strong><br/>
 You can find our product prices on our website. We will update them from time to time.<br/> 
-All prices are in Rwandan Francs.<br/>
+All prices are in USA dollars.<br/>
 <br/>
 <strong>ORDERS AND PAYMENTS</strong><br/>
 Your order is an offer to enter into an agreement with us. No agreement is created until your order<br/>

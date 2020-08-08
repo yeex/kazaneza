@@ -70,7 +70,7 @@
 
                        </div>
                         <div class="panel-footer">
-                             <p align="left">&copy; <a href="https://bit.ly/2LPn9Wu">kazaneza web made</a></p>
+                             <p align="left">&copy; <a href="https://bit.ly/2LPn9Wu">Janobe Source Code</a></p>
                         </div>
                     </div> 
                   </div>
@@ -194,7 +194,7 @@
                                           "image"></label>
                                           <div class="col-md-8">
                                         <p>  I <input type="checkbox" id="conditionterms" name="conditionterms" value="checkbox" />
-                                           <small>Agree with the <a class="toggle-modal"  onclick=" OpenPopupCenter('terms.php','Terms And Codition','600','600')"  ><b>TERMS AND CONDITION</b></a> of kazaneza web made.</small>
+                                           <small>Agree with the <a class="toggle-modal"  onclick=" OpenPopupCenter('terms.php','Terms And Codition','600','600')"  ><b>TERMS AND CONDITION</b></a> of Janobe Source Code.</small>
                                            
                                           </div>
                                         </div>
@@ -216,7 +216,7 @@
 
                                      </div>
                                     <div class="panel-footer">
-                                        <p align="left">&copy; <a href="https://bit.ly/2LPn9Wu">kazaneza web made</a></p>
+                                        <p align="left">&copy; <a href="https://bit.ly/2LPn9Wu">Janobe Source Code</a></p>
                                     </div> 
                             </div> 
                             <!-- end panel sign up -->
